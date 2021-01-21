@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i2CNK7n8N3Ydkm/kFZL68IWYVzQlnDxUyuoRLIrTDiPF76nyQ+w6iPmd8t3IIDWOBewFYDa1JipubX/aIx/FMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\3dtesting\\source\\repos\\BlogLab\\BlogLab.Web\\BlogLab.Web.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\3dtesting\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
